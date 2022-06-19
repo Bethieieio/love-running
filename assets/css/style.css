@@ -33,7 +33,7 @@ h1, h2 {
 }
 
 #menu, #logo {
-    line-height: 75px
+    line-height: 75px;
 }
 
 #menu li {
@@ -108,7 +108,7 @@ h1, h2 {
 
 /* Club Ethos */
 #club-ethos {
-    height: 600px
+    height: 600px;
 }
 
 #left-about {
